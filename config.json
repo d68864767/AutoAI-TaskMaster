@@ -1,0 +1,15 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "autohotkey_scripts": {
+        "automated_scheduling": true,
+        "smart_file_sorting": true,
+        "custom_workflow_automation": true,
+        "virtual_employee_agent": true
+    },
+    "openai_models": {
+        "text_generation": {
+            "engine": "text-davinci-002",
+            "max_tokens": 60
+        }
+    }
+}
